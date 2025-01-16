@@ -17,7 +17,6 @@
 
 // Put your function here!
 fn calculate_price_of_apples(mount: u32) -> u32 {
-    //
     if (mount <= 40) {
         mount * 2
     } else {
